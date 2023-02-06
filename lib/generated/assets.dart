@@ -6,17 +6,17 @@ class Assets {
   static const String pixelPngpizzaorginalItalian = 'assets/images/pixel/pngpizzaorginalItalian.png';
   static const String pixelPngpizzawhiteChicken = 'assets/images/pixel/pngpizzawhite_Chicken.png';
   static const String pixelRespng = 'assets/images/pixel/respng.png';
-  static const String victorIconarrow = 'assets/images/victor/iconarrow.svg';
-  static const String victorIconfavesvg = 'assets/images/victor/iconfavesvg.svg';
-  static const String victorIconhamMenu = 'assets/images/victor/iconhamMenu.svg';
-  static const String victorIconpngfish = 'assets/images/victor/iconpngfish.svg';
-  static const String victorIconpngiceCream = 'assets/images/victor/iconpngice-cream.svg';
-  static const String victorIconpngpizza = 'assets/images/victor/iconpngpizza.svg';
-  static const String victorIconpngsoup = 'assets/images/victor/iconpngsoup.svg';
-  static const String victorIconpngsteak = 'assets/images/victor/iconpngsteak.svg';
-  static const String victorIconpngsushi = 'assets/images/victor/iconpngsushi.svg';
-  static const String victorIconsearch = 'assets/images/victor/iconsearch.svg';
-  static const String victorUnion4 = 'assets/images/victor/Union_4.svg';
-  static const String victorUnion5 = 'assets/images/victor/Union_5.svg';
+  static const String victorIconarrow00 = 'assets/images/victor/iconarrow00.svg';
+  static const String victorIconfavesvg01 = 'assets/images/victor/iconfavesvg01.svg';
+  static const String victorIconhamMenu02 = 'assets/images/victor/iconhamMenu02.svg';
+  static const String victorIconpngfish03 = 'assets/images/victor/iconpngfish03.svg';
+  static const String victorIconpngiceCream04 = 'assets/images/victor/iconpngice-cream04.svg';
+  static const String victorIconpngpizza05 = 'assets/images/victor/iconpngpizza05.svg';
+  static const String victorIconpngsoup06 = 'assets/images/victor/iconpngsoup06.svg';
+  static const String victorIconpngsteak07 = 'assets/images/victor/iconpngsteak07.svg';
+  static const String victorIconpngsushi08 = 'assets/images/victor/iconpngsushi08.svg';
+  static const String victorIconsearch09 = 'assets/images/victor/iconsearch09.svg';
+  static const String victorUnion10 = 'assets/images/victor/Union10.svg';
+  static const String victorUnion11 = 'assets/images/victor/Union11.svg';
 
 }
